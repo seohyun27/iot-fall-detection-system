@@ -1,4 +1,4 @@
-# Iot Fall Detection System
+# IoT Fall Detection System
 This was a team project for the IoT and Embedded Software class. This report outlines the design and planning for an 'IoT-based Smart Fall Detection System'. The primary goal was to architect the system, not to fully implement it.
 
 <br/>
